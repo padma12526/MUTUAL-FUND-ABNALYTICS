@@ -1,0 +1,8 @@
+DATA QUALITY SUMMARY
+
+1. Successfully loaded all CSV datasets from the data/raw folder.
+2. Verified dataset shape, data types, and previewed the first five records.
+3. Checked each dataset for missing values and duplicate records.
+4. Explored the fund_master dataset to identify unique fund houses, categories, and sub-categories.
+5. Fetched live NAV data from the MFAPI and saved it into the data/processed folder.
+6. The datasets have been checked and are ready for further analysis.
